@@ -35,10 +35,6 @@ The quality and richness of narration may vary depending on the ChatGPT environm
 
    `Boot this.`
 
-   Japanese users can simply say:
-
-   `ブートして`
-
 5. Follow the character-setup questions and begin playing.
 
 The setup is intentionally open-ended. You first describe what kind of being you want to play, and ChatGPT asks only the minimum follow-up questions needed to make that character usable in the world.
