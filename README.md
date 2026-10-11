@@ -10,7 +10,7 @@ The system attempts to preserve the source world, characters, relationships, and
 
 ## Download
 
-[Download the PLAYER ZIP](https://github.com/OTONOTAMA/Project-Living-Story-The-Well-at-the-Worlds-End/raw/refs/heads/main/Project_Living_Story_The_Well_at_the_Worlds_End_v0.1_PLAYER.zip)
+[Download the PLAYER ZIP](https://github.com/OTONOTAMA/Project-Living-Story-The-Well-at-the-Worlds-End/raw/refs/heads/main/Project_Living_Story_The_Well_at_the_Worlds_End_v0.2_PLAYER.zip)
 
 ## What You Need
 
@@ -25,7 +25,7 @@ The quality and richness of narration may vary depending on the ChatGPT environm
 
 1. Download:
 
-   `Project_Living_Story_The_Well_at_the_Worlds_End_v0.1_PLAYER.zip`
+   `Project_Living_Story_The_Well_at_the_Worlds_End_v0.2_PLAYER.zip`
 
 2. Start a new ChatGPT conversation.
 
@@ -93,13 +93,13 @@ A saved game can be used to continue the story in another ChatGPT conversation.
 
 ## Release Integrity
 
-Release: `v0.1 STABLE`
+Release: `v0.2`
 
 SHA-256 of the PLAYER ZIP:
 
-`32a18a11f332376f91a6f5ddd3076eea3fe48b3048e1071010cc2e850a42be0c`
+`13aede7aa41cc5e30e31ce8b2ab57fb2583c06700c971a8b289aa92117944870`
 
-This release uses the exact PLAYER bytes that passed qualification and Fresh Chat testing. The internal package identifiers therefore retain their qualified `v0.1-build.005` names.
+The author has confirmed operation in both ChatGPT and Bionic. The supplied PLAYER ZIP is published unchanged, with internal identifiers retained as `v0.2-build.008`. Bundled qualification records preserve historical test status and may predate the author's subsequent confirmation. The previous v0.1 ZIP remains available in this repository.
 
 ## License
 
@@ -154,7 +154,7 @@ William Morrisの小説 *The Well at the World's End* を題材にした、ChatG
 
 ## ダウンロード
 
-[PLAYER ZIPをダウンロード](https://github.com/OTONOTAMA/Project-Living-Story-The-Well-at-the-Worlds-End/raw/refs/heads/main/Project_Living_Story_The_Well_at_the_Worlds_End_v0.1_PLAYER.zip)
+[PLAYER ZIPをダウンロード](https://github.com/OTONOTAMA/Project-Living-Story-The-Well-at-the-Worlds-End/raw/refs/heads/main/Project_Living_Story_The_Well_at_the_Worlds_End_v0.2_PLAYER.zip)
 
 ## 必要なもの
 
@@ -169,7 +169,7 @@ William Morrisの小説 *The Well at the World's End* を題材にした、ChatG
 
 1. 次のファイルをダウンロードします。
 
-   `Project_Living_Story_The_Well_at_the_Worlds_End_v0.1_PLAYER.zip`
+   `Project_Living_Story_The_Well_at_the_Worlds_End_v0.2_PLAYER.zip`
 
 2. ChatGPTで新しいチャットを開始します。
 
@@ -239,13 +239,13 @@ SAVEやLOADを行う場合は、ゲーム内に表示される案内に従って
 
 ## リリース整合性
 
-リリース：`v0.1 STABLE`
+リリース：`v0.2`
 
 PLAYER ZIPのSHA-256：
 
-`32a18a11f332376f91a6f5ddd3076eea3fe48b3048e1071010cc2e850a42be0c`
+`13aede7aa41cc5e30e31ce8b2ab57fb2583c06700c971a8b289aa92117944870`
 
-このリリースでは、QualificationとFresh Chat試験を通過したPLAYERのバイト列をそのまま使用しています。そのため、ZIP内部のパッケージ識別子には検証済みの `v0.1-build.005` 表記が残っています。
+作者により、ChatGPTとBionicの両方で動作確認済みです。提供されたPLAYER ZIPを変更せず公開しているため、内部識別子は `v0.2-build.008` のままです。同梱の試験記録は過去の状態を保持しており、その後の作者による動作確認より古い場合があります。旧v0.1のZIPもリポジトリ内に残しています。
 
 ## ライセンス
 
